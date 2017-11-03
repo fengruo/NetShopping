@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+* { margin: 0  auto;padding: 0}
+header {  width:100%; height:10%; background-color:threeddarkshadow;text-align: center; font-family: cursive;font-size:xx-large;}
+#neirong {height:80%; background-color: buttonhighlight;}
+footer{height:10%; background-color: buttonshadow; text-align: center;}
+#tou {background-color: buttonshadow;}
+#tou ul {display: inline; }
+#tou ul li{display: inline-block;line-height: 8px;margin-left: 100px ;}
+#zuo {width:10%;height: 100%; background-color: green;margin-left: 0; float:left;}
+#zhong{width:60%; height:100% ;background-color: aqua;margin-top: 0; float:left;}
+#you {width:30%; height:100% ; background-color: fuchsia;margin-right: 0; float:left; }
